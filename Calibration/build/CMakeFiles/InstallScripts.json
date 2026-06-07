@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/vboxuser/WorkSpace/SLAM_Learn/Calibration/build/cmake_install.cmake",
+		"/home/vboxuser/WorkSpace/SLAM_Learn/Calibration/build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
